@@ -9,5 +9,5 @@ local messages = {
 local splashtxt = get('splashtxt')
 
 if splashtxt then
-	splashtxt.textContent = messages[math.random(1,#messages)]
+	splashtxt.set_content(messages[math.random(1,#messages)])
 end
