@@ -7,3 +7,6 @@ body {
 splashtxt {
     font-size: 16px;
 }
+nolinebreak {
+    display: inline;
+}
