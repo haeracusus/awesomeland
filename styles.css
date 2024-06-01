@@ -3,10 +3,5 @@ body {
     padding: 10px;
     border-radius: 12px;
     align-items: center;
-    font-family: monospace;
-}
-header {
-    font-size: 48px;
-    font-weight: ultralight;
-    font-style: italic;
+    font-family: 'Times New Roman';
 }
